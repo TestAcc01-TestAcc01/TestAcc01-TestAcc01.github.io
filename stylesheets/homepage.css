@@ -1,0 +1,27 @@
+body {
+    background-color: #303030;
+    color:#b0b0b0;
+    font-family: "Segoe UI", "Microsoft JhengHei", sans-serif;
+    font-size: 18px;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    color:lightsteelblue;
+    text-decoration: none;
+}
