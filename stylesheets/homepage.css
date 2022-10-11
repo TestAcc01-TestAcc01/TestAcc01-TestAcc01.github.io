@@ -17,8 +17,17 @@ h3 {
     font-size: 20px;
 }
 
+div.section {
+    margin-top: 40px;
+}
+
 ul {
     list-style-type: none;
+}
+
+p {
+    margin-top: -10px;
+    margin-bottom: 40px;
 }
 
 a {
