@@ -21,6 +21,10 @@ div.section {
     margin-top: 40px;
 }
 
+.misc {
+    line-height: 150%;
+}
+
 ul {
     list-style-type: none;
 }
