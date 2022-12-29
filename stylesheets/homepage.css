@@ -1,3 +1,5 @@
+/* BEGIN: BODY */
+
 body {
     background-color: #303030;
     color:#b0b0b0;
@@ -5,27 +7,10 @@ body {
     font-size: 18px;
 }
 
-li.menu_item {
-    display: inline-block;
-    padding: 0 20px;
-}
+/* END: BODY */
 
-li.current_page {
-    font-weight: bold;
-}
 
-h1 {
-    padding-left: 20px;
-    font-size: 30px;
-}
-
-h2 {
-    font-size: 24px;
-}
-
-h3 {
-    font-size: 20px;
-}
+/* BEGIN: DIV */
 
 div.container {
     margin-top: 40px;
@@ -40,6 +25,11 @@ div.section {
     margin-top: 30px;
 }
 
+/* END: DIV */
+
+
+/* BEGIN: LIST */
+
 ul {
     list-style-type: none;
     margin-left: 0;
@@ -50,6 +40,38 @@ ul {
 ul.default {
     list-style-type: disc;
 }
+
+li.menu_item {
+    display: inline-block;
+    padding: 0 20px;
+}
+
+li.current_page {
+    font-weight: bold;
+}
+
+/* END: LIST */
+
+
+/* BEGIN: HEADER */
+
+h1 {
+    padding-left: 20px;
+    font-size: 30px;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+/* END: HEADER */
+
+
+/* BEGIN: TEXT */
 
 p {
     width: 90%;
@@ -79,3 +101,5 @@ span.profile {
 s {
     text-decoration-thickness: 2.25px;
 }
+
+/* END: TEXT */
