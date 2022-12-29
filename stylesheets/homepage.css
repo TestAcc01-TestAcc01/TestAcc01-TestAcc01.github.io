@@ -69,3 +69,13 @@ span.course_code {
     display: inline-block;
     width: 120px;
 }
+
+span.profile {
+    display: inline-block;
+    width: 100px;
+    font-weight: bold;
+}
+
+s {
+    text-decoration-thickness: 2.25px;
+}
