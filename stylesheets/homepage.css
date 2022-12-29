@@ -47,9 +47,13 @@ ul {
     line-height: 150%;
 }
 
+ul.default {
+    list-style-type: disc;
+}
+
 p {
-    margin-top: -10px;
-    margin-bottom: 40px;
+    width: 90%;
+    word-wrap: break-word;
 }
 
 a {
@@ -59,4 +63,9 @@ a {
 
 a.menu_item {
     color:#b0b0b0;
+}
+
+span.course_code {
+    display: inline-block;
+    width: 120px;
 }
