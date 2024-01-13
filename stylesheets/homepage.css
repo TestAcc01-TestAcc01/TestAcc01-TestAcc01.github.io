@@ -71,6 +71,36 @@ h3 {
 /* END: HEADER */
 
 
+/* BEGIN: TABLE */
+
+/* Solid borders: https://stackoverflow.com/a/39828325 */
+table {
+    background-color: #b0b0b0;
+}
+
+tr {
+    background-color: #303030;
+}
+
+td {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+/* END: TABLE */
+
+
+/* BEGIN: BUTTON */
+
+input {
+    margin-bottom: 15px;
+    font-family: "Segoe UI", "Microsoft JhengHei", sans-serif;
+    font-size: 16px;
+}
+
+/* END: BUTTON */
+
+
 /* BEGIN: TEXT */
 
 p {
@@ -103,3 +133,9 @@ s {
 }
 
 /* END: TEXT */
+
+/* BEGIN: HIDDEN */
+.hidden {
+    display: none;
+}
+/* END: HIDDEN */
